@@ -1,4 +1,4 @@
-# Data-Analysis-Project
+# Data-Analysis-Project 1
 Hi!Welcome to my Repository.This is about my first Data Analysis Project Which is "Titanic DataSet Analysis Project",In this Project We are Going to analyze the Titanic
 Dataset By Trying to Answer These Questions:
 
